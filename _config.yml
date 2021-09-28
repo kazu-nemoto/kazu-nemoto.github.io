@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-JP"
 title                    : "Kazuki Nemoto / An introduction"
 title_separator          : "＠"
 name                     : &name "Kazuki Nemoto"
@@ -85,8 +85,8 @@ author:
   bio              : "Tohoku University"
   location         : "Sendai-city, Japan"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : "kazuki.nemoto.r6@dc.tohoku.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/kazuki-nemoto-6106151a6/"
+  linkedin         : "https://www.linkedin.com/in/kazuki-nemoto-6106151a6/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
