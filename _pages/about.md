@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a student at Tohoku University since I became a undergrad. I was born in Japan　and I have been here till now. Sometimes I visit other countries and at the same time, miss Japan. I have been to China, Vietnam, AU, NZ and (digital) Germany (through ZOOM in 2020).ということで、日本語で
+I am a student at Tohoku University since I became a undergrad. I was born in Japan　and I have been here till now. Sometimes I visit other countries and at the same time, miss Japan. I have been to China, Vietnam, AU, NZ and (digital) Germany (through ZOOM in 2020).
+ということで、日本語で描きたいと思っていましたが、残念ながら整備中です、予定は未定、野望は無謀。
 
 My interests
 ======
