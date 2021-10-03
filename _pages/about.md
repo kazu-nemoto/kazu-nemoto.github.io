@@ -16,7 +16,7 @@ I am a student at Tohoku University since I became a undergrad. I was born in Ja
 
 My interests
 ======
-I am doing a research in the field of managements, though I have been interested in economics, game theory, market design. And, I will make a company at least by my graduation.  Within 2 years. I am wondering not if my success is still alive, but if I am way happier than yesterday or not until death. Therefore, I am intrested in startups or things like that.
+I am doing a research in the field of managements, though I have been interested in economics, game theory, market design. And, I will make a company at least by my graduation.  Within 2 years. I am wondering not if my success is still alive, but if I am way happier than yesterday until my death. Therefore, I am intrested in startups or things like that.
 
 私はお寿司が好きです。また経済学のマーケットデザインが興味があります。
 
@@ -24,7 +24,7 @@ I am doing a research in the field of managements, though I have been interested
 
 My mission
 ======
-is to use economics in busineess as a pioneer in Japan. in other words, to inplement. Many times, I have been asked like; you major in economics, why don’t you be rich with economics? No, no, m8. Ecnomics is just a way of being happiness and fairness,　not an icon of capitalism. That is why I, in a effective way, implement economics in order to change what you think economics is. Besides, I want to make the world even happier with my ecnomics knowledge.
+is to use economics in business as a pioneer in Japan. in other words, to inplement. Many times, I have been asked like; you major in economics, why don’t you be rich with economics? No, no, m8. Ecnomics is just a way of being happiness and fairness,　not an icon of capitalism. That is why I, in a effective way, implement economics in order to change what you think economics is. Besides, I want to make the world even happier with my ecnomics knowledge.
 
 地球を救うことです。
 
