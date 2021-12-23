@@ -16,7 +16,7 @@ I am a student at Tohoku University since I became a undergrad. I was born in Ja
 
 My interests
 ======
-I am doing a research in the field of managements, though I have been interested in economics, game theory, market design. And, I will make a company at least by my graduation.  Within 2 years. I am wondering not if my success is still alive, but if I am way happier than yesterday until my death. Therefore, I am intrested in startups or things like that.
+I am doing a research in the field of innovation, though I have been interested in economics, game theory and market design. And, I WILL make a company at least by my graduation.  Within 2 years. I am wondering not "if my success is still alive", but "if I am way happier than yesterday until my death". Therefore, I am intrested in startups or things like that as well.
 
 私はお寿司が好きです。また経済学のマーケットデザインが興味があります。
 
@@ -24,13 +24,13 @@ I am doing a research in the field of managements, though I have been interested
 
 My mission
 ======
-is to use economics in business as a pioneer in Japan. in other words, to inplement. Many times, I have been asked like; you major in economics, why don’t you be rich with economics? No, no, m8. Ecnomics is just a way of being happiness and fairness,　not an icon of capitalism. That is why I, in a effective way, implement economics in order to change what you think economics is. Besides, I want to make the world even happier with my ecnomics knowledge.
+is to use economics in business in Japan. In other words, to inplement. Many times, I have been asked like; you major in economics, why don’t you be rich with economics? No, no, m8. Ecnomics is just a way of make people and the environment happiner and way more fair,　not an icon of capitalism. That is why I implement economics in order to change what you think economics is and make the world much better. 
 
 地球を救うことです。
 
-Site-wide configuration
+Resume　＆ Key words
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+2019:
 
 Create content & metadata
 ------
