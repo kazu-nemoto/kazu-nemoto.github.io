@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-JP"
-title                    : "Kazuki Nemoto / My introduction"
+title                    : "kazuki nemoto / My introduction"
 title_separator          : "＠"
-name                     : &name "Kazuki Nemoto"
+name                     : &name "kazuki nemoto"
 description              : &description "a student, an entrepreneur, and your friend till my death"
 url                      : https://kazu-nemoto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
