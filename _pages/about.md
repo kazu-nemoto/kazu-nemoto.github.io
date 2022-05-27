@@ -33,4 +33,4 @@ Research Interests & Key Words
 Game theory, Market design, Innovation, Teamworks, Entrepreneurship, Implementations, Academic spinoff company, Economics, NBA, T&F, Sake(Japanese water), Belgium beer, Alcohol
 
 
-By the way, you might notice something about my name. Yes! All letters are lower cases! Please do not call me a stupid guy. It just shows I do not have  any capital.
+By the way, you might notice something about my name. Yes! All letters are lower cases! Please do not call me a stupid guy. It just shows I do not have  any capital. Please donate. I beg you.
