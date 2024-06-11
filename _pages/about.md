@@ -18,7 +18,7 @@ My interests
 ======
 I am doing a research on the field of innovation, management although I have been interested in economics. And, I am preparing for founding mycompany at least by my graduation. I am wondering not "if my success is still alive", but "if I am way happier than yesterday until my death". 
 
-私はお寿司が好きです。また経済学のマーケットデザインが興味があります。
+私はお寿司が好きです。また経済学が興味があります。
 
 
 
