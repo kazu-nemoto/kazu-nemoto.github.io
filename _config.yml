@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "kazuki nemoto"
-  avatar           : "/images/me_2024_at_zao.JPG"
+  avatar           : "/assets/images/me_2024_at_zao.JPG"
   bio              : "University of Tokyo, sometimes Tohoku University and UC Berkeley"
   location         : "Hongo/Nihonbashi or Sendai-city, Japan / Berkeley, CA"
   employer         :
