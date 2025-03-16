@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "kazuki nemoto"
   avatar           : "profile.png"
-  bio              : "Tohoku University, sometimes UC Berkeley"
-  location         : "Sendai-city, Japan/Berkeley, CA"
+  bio              : "University of Tokyo, sometimes Tohoku University and UC Berkeley"
+  location         : "Hongo/Nihonbashi or Sendai-city, Japan / Berkeley, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "nimotougou"
+  X                : "nimotougou"
   note             : "https://note.com/nimotougou/"
   weibo            :
   xing             :
