@@ -10,8 +10,7 @@ In X, I am always looking for a baby's prank though I can always find "I won the
 Few years ago, I was around 19 or 20, and I felt I should've had won any pitch contest. However, actually, that means nothing in my opinion. <br>
 
 ----
-I started my business when I was 23 or so. At first, when you win the prize, it would be worth it. As you can see, it isn't mostly. Instead, you finish your project with a big tech, and your phone would never sleep for some days.<br>
-What I meant by here is not that you should not be on the stage and talk with guys from VCs. I respect and appriciate thoese oppotunites but your business would never sprout out. Another muscle is needed. That is sales. Finding your customers.<br>
+I started my business when I was 23 or so. At first, when you win the prize, it would be worth it. As you can see, it isn't mostly. Instead, you finish your project with a big tech, and your phone would never sleep for some days.What I meant by here is not that you should not be on the stage and talk with guys from VCs. I respect and appriciate thoese oppotunites but your business would never sprout out. Another muscle is needed. That is sales. Finding your customers.<br>
 <br>
 Even though your plan sounds perfect and everyone gives you kudos, those would never guranteee that everythig is great. Just say to you that; "well done." In terms of "business", winning is just "rare", if it is good, is "medium-rare." Literally, it would be a good time for VCs to eat.<br>
 <br>
