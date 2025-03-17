@@ -17,9 +17,16 @@ Even though your plan sounds perfect and everyone gives you kudos, those would n
 The world would be greater than you expected and not that evil. However, the system would not be designed for you or work for you. <br>
 <br>
 Love and appriciate your work and effort but never forget not to win pitches but to do your business.<br>
+----
+Increase your prestige by increasing people's prestige is what I have been trying to do currently. Even though you are 20s, you can make a stage for the younger or the older. I just recommend making a stage and criteria instead of being getting benefit from those stages and those light cardboard with words, "The first prize."
 <br>
 <br>
+To do so, you will increase your pristige as people around you are increasing their pristige. That would overcome the core system of the tournament; winner takes all.
+<br>
+<br>
+Gen Z likes making this world better. This would nudge you to do so hopefully. Try to come out the someone's dogma. This "someone" implies the past people or the past thinkings, be the last person to help this f world.
 
+>Don’t be trapped by dogma, which is living with the results of other people’s thinking.  by Steve Jobs in 2005
 
 Thanks, <br>
 kazu
