@@ -4,7 +4,7 @@ date: 2025-03-17
 categories: [award]
 ---
 
-Linkedin pops up, saying "I am thrilled to announce that I got a offer,,, "<br>
+Linkedin pops up, saying "I am thrilled to announce that I got an offer,,, "<br>
 In X, I am always looking for a baby's prank though I can always find "I won the final pitch at Techcrunch,,,"<br>
 
 Few years ago, I was around 19 or 20, and I felt I should've won any pitch contest. However, actually, that means nothing in my opinion. <br>
@@ -20,8 +20,8 @@ The world would be greater than you expected and not that evil. However, the sys
 <br>
 Love and appriciate your work and effort but never forget not to win pitches but to do your business.
 <br>
-<br>
----
+
+
 <br>
 Increase your prestige by increasing people's prestige is what I have been trying to do currently. Even though you are 20s, you can make a stage for the younger or even, the older. I just recommend making a stage and criteria instead of being getting benefit from those stages and those light cardboard with words, "The first prize.".
 <br>
