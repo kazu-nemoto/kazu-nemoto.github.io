@@ -37,4 +37,4 @@ Currently serving as CEO of QueeenB, Inc.
 
 
 
-By the way, you might notice something about my name. Yes! All letters are lower cases! Please do not call me a stupid guy. It just shows I do not have  any capital. Please donate. I beg you.
+By the way, you might notice something about my name. Yes! All letters are lower cases! Please do not call me a stupid guy. It just shows I do not have  any capital. Please donate me. I beg you.
