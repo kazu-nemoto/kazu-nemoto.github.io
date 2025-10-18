@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Portfolio 1"
 excerpt: '「A Vision of Metascience」の日本語訳を公開しました。詳細は本文へ。<br/>Published a Japanese translation of “A Vision of Metascience”.<br/><img src="/images/500x300.png">'
 collection: portfolio
 ---
