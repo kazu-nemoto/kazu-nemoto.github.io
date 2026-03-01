@@ -63,6 +63,12 @@ body.landing .greedy-nav {
   border: 0;
 }
 
+body.landing .masthead__inner-wrap {
+  max-width: none;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 body.landing .masthead a,
 body.landing .greedy-nav a {
   color: var(--landing-muted);
@@ -75,6 +81,10 @@ body.landing .greedy-nav a:hover {
 
 body.landing .page {
   background: transparent;
+  float: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 body.landing .landing-hero {
@@ -137,6 +147,10 @@ body.landing .sidebar .author__urls a:hover {
 
 body.landing #main {
   margin-top: 1.2rem;
+  max-width: none;
+  width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 @keyframes landingType {
