@@ -9,6 +9,24 @@ show_title: false
 {% include base_path %}
 
 {% assign portfolio_sorted = site.portfolio | sort: "order" %}
+
+<h2 class="archive__subtitle">Translations</h2>
 {% for post in portfolio_sorted %}
-  {% include archive-single.html %}
+  {% if post.medium == "translation" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2 class="archive__subtitle">Preprints</h2>
+{% for post in portfolio_sorted %}
+  {% if post.medium == "preprint" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2 class="archive__subtitle">Journal Articles</h2>
+{% for post in portfolio_sorted %}
+  {% if post.medium == "journal" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
