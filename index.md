@@ -4,13 +4,8 @@ title: "nimotougou"
 author_profile: true
 classes: landing
 show_title: false
+splash_text: nimotougou
 ---
-
-<div class="landing-intro">
-  <div id="landing-splash" aria-hidden="true">
-    <div class="landing-splash__text" data-text="nimotougou"></div>
-  </div>
-</div>
 
 <div class="landing-hero">
   <h1 class="landing-hero__title">nimotougou</h1>
