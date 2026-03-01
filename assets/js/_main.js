@@ -103,9 +103,23 @@ $(document).ready(function(){
     return;
   }
 
-  document.body.classList.add("landing-loading");
+  var splashText = splash.querySelector(".landing-splash__text");
+  var fullText = splashText ? (splashText.getAttribute("data-text") || "nimotougou") : "nimotougou";
 
-  setTimeout(function() {
+  document.body.classList.add("landing-loading");
+  if (splashText) {
+    splashText.textContent = "";
+    splashText.classList.add("is-typing");
+  }
+
+  var index = 0;
+  var typingDelay = 95;
+  var finishDelay = 450;
+
+  function revealMain() {
+    if (splashText) {
+      splashText.classList.remove("is-typing");
+    }
     splash.classList.add("is-hidden");
     document.body.classList.remove("landing-loading");
     document.body.classList.add("landing-revealed");
@@ -115,5 +129,21 @@ $(document).ready(function(){
         splash.parentNode.removeChild(splash);
       }
     }, 340);
-  }, 1600);
+  }
+
+  function typeNextChar() {
+    if (!splashText) {
+      revealMain();
+      return;
+    }
+    if (index < fullText.length) {
+      splashText.textContent += fullText.charAt(index);
+      index += 1;
+      setTimeout(typeNextChar, typingDelay);
+      return;
+    }
+    setTimeout(revealMain, finishDelay);
+  }
+
+  typeNextChar();
 })();

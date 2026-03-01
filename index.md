@@ -8,7 +8,7 @@ show_title: false
 
 <div class="landing-intro">
   <div id="landing-splash" aria-hidden="true">
-    <div class="landing-splash__text">nimotougou</div>
+    <div class="landing-splash__text" data-text="nimotougou"></div>
   </div>
 </div>
 
