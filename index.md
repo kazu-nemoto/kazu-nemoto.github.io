@@ -1,15 +1,14 @@
 ---
 layout: single
-title: "nimotougou"
+title: "kazuki nemoto"
 author_profile: true
 classes: landing
 show_title: false
-splash_text: nimotougou
+splash_text: kazuki nemoto
 ---
 
 <div class="landing-hero">
-  <h1 class="landing-hero__title">nimotougou</h1>
-  <p class="landing-hero__tagline">Metascience × Industrial Organization</p>
+  <h1 class="landing-hero__title">kazuki nemoto</h1>
 </div>
 
 <div class="landing-content" markdown="1">

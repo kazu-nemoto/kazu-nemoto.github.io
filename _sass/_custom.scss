@@ -44,6 +44,67 @@ body.landing-loading .page__footer {
   display: none !important;
 }
 
+body.landing {
+  background:
+    radial-gradient(circle at 20% 10%, rgba(0, 255, 204, 0.08), transparent 40%),
+    radial-gradient(circle at 80% 20%, rgba(0, 153, 255, 0.08), transparent 35%),
+    #0a0f1a;
+}
+
+body.landing .page {
+  background: transparent;
+}
+
+body.landing .landing-hero {
+  position: relative;
+  margin: 2.5rem 0 1rem;
+  padding: 2rem;
+  border: 1px solid rgba(0, 255, 204, 0.25);
+  background: linear-gradient(145deg, rgba(8, 17, 33, 0.92), rgba(9, 25, 34, 0.84));
+  box-shadow: 0 0 0 1px rgba(0, 255, 204, 0.08), 0 18px 48px rgba(0, 0, 0, 0.45);
+  overflow: hidden;
+}
+
+body.landing .landing-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(to right, rgba(0, 255, 204, 0.08) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 255, 204, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+  pointer-events: none;
+}
+
+body.landing .landing-hero__title {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  font-family: "Fira Code", "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: clamp(2rem, 6vw, 3.2rem);
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+  color: #e8fff7;
+  text-shadow: 0 0 18px rgba(0, 255, 204, 0.25);
+}
+
+body.landing .landing-content {
+  margin-top: 1.25rem;
+  padding: 1.5rem 1.75rem;
+  border: 1px solid rgba(0, 153, 255, 0.22);
+  background: rgba(6, 16, 28, 0.8);
+  backdrop-filter: blur(4px);
+  color: #d8e6f2;
+}
+
+body.landing .landing-content h2 {
+  color: #a8f8e8;
+}
+
+body.landing .landing-content hr {
+  border-color: rgba(0, 255, 204, 0.22);
+}
+
 @keyframes landingType {
   from {
     width: 0ch;
