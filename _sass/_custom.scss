@@ -15,6 +15,11 @@ html {
   padding: clamp(2rem, 8vw, 5rem);
 }
 
+body.landing:not(.landing-revealed) .masthead {
+  opacity: 0;
+  visibility: hidden;
+}
+
 body.landing-reveal .landing-intro {
   pointer-events: none;
   animation: introFlash 0.75s ease forwards;
@@ -179,13 +184,9 @@ body.landing-reveal .landing-content {
     opacity: 1;
     background: #050505;
   }
-  65% {
-    opacity: 1;
-    background: #ffffff;
-  }
   100% {
     opacity: 0;
-    background: #ffffff;
+    background: #050505;
     visibility: hidden;
   }
 }
