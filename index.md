@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "kazuki nemoto"
-author_profile: true
+author_profile: false
 classes: landing
 show_title: false
 splash_text: nimotougou
