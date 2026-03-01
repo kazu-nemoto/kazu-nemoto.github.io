@@ -3,9 +3,9 @@ html {
 }
 
 :root {
-  --landing-bg: #f6f7f9;
+  --landing-bg: #ffffff;
   --landing-surface: #ffffff;
-  --landing-border: #dfe3e8;
+  --landing-border: #e5e7eb;
   --landing-text: #111827;
   --landing-muted: #5b6470;
 }
@@ -32,7 +32,7 @@ html {
   overflow: hidden;
   white-space: nowrap;
   width: 0ch;
-  font-family: "Fira Code", "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: clamp(2.4rem, 9vw, 6rem);
   font-weight: 500;
   letter-spacing: clamp(0.25rem, 1.8vw, 0.5rem);
@@ -102,7 +102,7 @@ body.landing .landing-hero__title {
   position: relative;
   z-index: 1;
   margin: 0;
-  font-family: "Fira Code", "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-size: clamp(1.6rem, 4.6vw, 2.5rem);
   letter-spacing: 0.04em;
   text-transform: lowercase;
