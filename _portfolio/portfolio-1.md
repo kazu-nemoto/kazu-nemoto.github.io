@@ -1,6 +1,6 @@
 ---
-title: "Portfolio 1"
-excerpt: 'Published a Japanese translation of “A Vision of Metascience”.<br/><img src="/images/portfolio-1-500x300.png">'
+title: "A Vision of Metascience 日本語訳"
+excerpt: '「A Vision of Metascience」の日本語訳を公開しました。<br/><img src="/images/portfolio-1-500x300.png">'
 collection: portfolio
 ---
 
@@ -27,4 +27,3 @@ I published a Japanese translation of the article "A Vision of Metascience: An E
 The original paper discusses metascience and offers important proposals for improving the social processes of science — topics relevant to research evaluation, reproducibility, and institutional design in research communities.
 
  Comments and shares are welcome.
-
