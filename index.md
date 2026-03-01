@@ -3,6 +3,7 @@ layout: single
 title: "nimotougou"
 author_profile: true
 classes: landing
+show_title: false
 ---
 
 <div class="landing-intro">
