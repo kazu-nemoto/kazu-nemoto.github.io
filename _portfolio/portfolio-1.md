@@ -2,6 +2,7 @@
 title: "A Vision of Metascience 日本語訳"
 excerpt: '「A Vision of Metascience」の日本語訳を公開しました。<br/><img src="/images/portfolio-1-500x300.png">'
 collection: portfolio
+order: 1
 ---
 
 ![](/images/portfolio-1-500x300.png)
