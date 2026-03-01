@@ -1,24 +1,37 @@
 ---
-title: "10年後の人工知能研究の新潮流（人工知能学会誌）"
-excerpt: "人工知能学会誌 39巻3号（2024）掲載。全国大会特集の文脈で、今後10年のAI研究の方向性を整理。"
+title: "Japan AI Alignment Symposium 2024（人工知能学会誌）"
+excerpt: "人工知能学会誌 39巻3号（2024）掲載。Japan AI Alignment Symposium 2024 の開催報告。"
 collection: portfolio
 order: 3
 medium: journal
 ---
 
-# 10年後の人工知能研究の新潮流（人工知能学会誌）
+**日本語**
 
-人工知能学会誌（2024年、39巻3号、pp.431-435）に掲載された記事です。  
-2024年度全国大会の特集文脈において、今後10年のAI研究の方向性を俯瞰し、
-研究コミュニティが向き合う論点を整理しています。
+本記事は、人工知能学会誌（39巻3号、2024年5月、p.431-432）に掲載された  
+「Japan AI Alignment Symposium 2024」の開催報告です。
 
-公開メタデータから確認できる範囲では、研究潮流の整理、実装・連携の方向性、
-今後の議論の土台づくりが主題です。
+執筆者は根本一希・田中励雄・泉川茉莉です。
+
+シンポジウム（2024年1月20日、SusHi Tech Square / Tokyo Innovation Base開催）での
+専門家講演・パネル討論・グループ討議を通じて、次の論点が整理されています。
+
+- AIと人間の価値観・倫理観の整合（AI Alignment）
+- 安全性・公平性・透明性をどう実装するか
+- 技術だけでなく社会制度・政策設計を含めた議論の必要性
 
 - [Read via DOI](https://doi.org/10.11517/jjsai.39.3_431)
 
----
+**English**
 
-English Note
+This article (Journal of the Japanese Society for Artificial Intelligence, Vol.39 No.3, May 2024, p.431-432) is a report on Japan AI Alignment Symposium 2024.
 
-This article (Journal of the Japanese Society for Artificial Intelligence, Vol.39 No.3, pp.431-435, 2024) discusses emerging directions in AI research over the next decade in the context of the 2024 annual conference special issue.
+The report is authored by Kazuki Nemoto, Reo Tanaka, and Mari Izumikawa.
+
+Based on expert talks, panel discussion, and group sessions (held on January 20, 2024, at SusHi Tech Square / Tokyo Innovation Base), it highlights:
+
+- alignment between AI behavior and human values
+- practical implementation issues in safety, fairness, and transparency
+- the need for interdisciplinary approaches beyond engineering, including policy and social design
+
+- [Read via DOI](https://doi.org/10.11517/jjsai.39.3_431)

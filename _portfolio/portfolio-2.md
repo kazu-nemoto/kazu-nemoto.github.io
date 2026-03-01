@@ -6,7 +6,7 @@ order: 2
 medium: preprint
 ---
 
-# The dawn of Decentralized Science (DeSci) in Japan: Values and principles
+**日本語**
 
 日本のDeSciコミュニティを対象にした調査研究です。  
 2024年春に37名へ実施した調査をもとに、次の点を整理しています。
@@ -18,11 +18,15 @@ medium: preprint
 あわせて、オープンサイエンスとの接続や、日本で実装を進めるための実務的示唆
 （教育、オンボーディング、制度面の整備）を提示しています。
 
-- [Read on OSF (MetaArXiv)](https://osf.io/preprints/metaarxiv/yxj53_v1)
-
----
-
-English Note
+**English**
 
 This preprint provides an early empirical snapshot of DeSci adoption in Japan.  
 Based on a 37-participant survey (Spring 2024), it reports strong value-level alignment alongside practical bottlenecks in awareness, retention, talent diversity, and regulatory clarity.
+
+- Acceptance of DeSci definitions and values (roughly 95% positive alignment)
+- Entry pathways (crypto/DAO exposure plus motivation to improve research ecosystems)
+- Growth barriers (low public awareness, retention challenges, limited talent diversity, and regulatory uncertainty)
+
+It also discusses practical implementation implications in Japan, including training, onboarding, and institutional design.
+
+[Read on OSF (MetaArXiv)](https://osf.io/preprints/metaarxiv/yxj53_v1)

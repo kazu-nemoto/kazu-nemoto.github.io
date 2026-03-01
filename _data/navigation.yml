@@ -8,6 +8,9 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "SNS (@nimotougou)"
+    url: /sns/
     
   - title: "CV"
     url: /cv/

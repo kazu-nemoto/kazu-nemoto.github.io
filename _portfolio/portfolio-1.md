@@ -1,31 +1,29 @@
 ---
-title: "Translation: A Vision of Metascience (Japanese)"
-excerpt: '「A Vision of Metascience」の日本語訳を公開しました。<br/><img src="/images/portfolio-1-500x300.png">'
+title: "A Vision of Metascience (Japanese Translation)"
+excerpt: "Mediumで公開した『A Vision of Metascience』日本語訳。翻訳の意図と要点を日英で整理。"
 collection: portfolio
 order: 1
 medium: translation
 ---
 
-![](/images/portfolio-1-500x300.png)
+**日本語**
 
-# 日本語訳公開: A Vision of Metascience
+「A Vision of Metascience: An Engine of Improvement for the Social Processes of Science」
+の日本語訳をMediumで公開しています。
 
-このたび、記事「A Vision of Metascience: An Engine of Improvement for the Social Processes of Science」の日本語訳をMediumに公開しました。翻訳は原文の趣旨を尊重しつつ、日本語読者向けに読みやすく整理したものです。
+- 原文の論旨（再現性、評価制度、研究実践の改善）を維持
+- 日本語読者にとって読みやすい語彙・構成に調整
+- メタサイエンスの入口として使える導線を意識
 
-- [Link](https://medium.com/@nimotougou/日本語訳-a-vision-of-metascience-an-engine-of-improvement-for-the-social-processes-of-science-89ddd3629a98)
+[Read on Medium](https://medium.com/@nimotougou/日本語訳-a-vision-of-metascience-an-engine-of-improvement-for-the-social-processes-of-science-89ddd3629a98)
 
-メタサイエンスという言葉を知った際には一番上に出てくるものの一つですが、日本語バージョンがなかったためこちらを作りました。
+**English**
 
-誤訳や分かりにくい表現があればぜひご指摘ください。コメントや共有は歓迎します。
+I published a Japanese translation of  
+"A Vision of Metascience: An Engine of Improvement for the Social Processes of Science" on Medium.
 
----
+- Preserves the original argument on reproducibility, evaluation systems, and research practice
+- Rewritten for readability for Japanese readers
+- Intended as an accessible entry point to metascience topics
 
-English Note
-
-I published a Japanese translation of the article "A Vision of Metascience: An Engine of Improvement for the Social Processes of Science" on Medium. The translation respects the original intent while being adjusted for readability for Japanese readers.
-
-- [Read on Medium](https://medium.com/@nimotougou/日本語訳-a-vision-of-metascience-an-engine-of-improvement-for-the-social-processes-of-science-89ddd3629a98)
-
-The original paper discusses metascience and offers important proposals for improving the social processes of science — topics relevant to research evaluation, reproducibility, and institutional design in research communities.
-
-Comments and shares are welcome.
+[Read on Medium](https://medium.com/@nimotougou/日本語訳-a-vision-of-metascience-an-engine-of-improvement-for-the-social-processes-of-science-89ddd3629a98)
