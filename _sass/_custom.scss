@@ -45,10 +45,7 @@ body.landing-loading .page__footer {
 }
 
 body.landing {
-  background:
-    radial-gradient(circle at 20% 10%, rgba(0, 255, 204, 0.08), transparent 40%),
-    radial-gradient(circle at 80% 20%, rgba(0, 153, 255, 0.08), transparent 35%),
-    #0a0f1a;
+  background: #f6f7f9;
 }
 
 body.landing .page {
@@ -57,22 +54,22 @@ body.landing .page {
 
 body.landing .landing-hero {
   position: relative;
-  margin: 2.5rem 0 1rem;
-  padding: 2rem;
-  border: 1px solid rgba(0, 255, 204, 0.25);
-  background: linear-gradient(145deg, rgba(8, 17, 33, 0.92), rgba(9, 25, 34, 0.84));
-  box-shadow: 0 0 0 1px rgba(0, 255, 204, 0.08), 0 18px 48px rgba(0, 0, 0, 0.45);
+  margin: 2rem 0 0.8rem;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid #d8dbe1;
+  background: #ffffff;
+  box-shadow: none;
   overflow: hidden;
 }
 
 body.landing .landing-hero::before {
   content: "";
   position: absolute;
-  inset: 0;
-  background-image:
-    linear-gradient(to right, rgba(0, 255, 204, 0.08) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(0, 255, 204, 0.08) 1px, transparent 1px);
-  background-size: 24px 24px;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 2px;
+  background: #111827;
   pointer-events: none;
 }
 
@@ -81,28 +78,27 @@ body.landing .landing-hero__title {
   z-index: 1;
   margin: 0;
   font-family: "Fira Code", "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  font-size: clamp(2rem, 6vw, 3.2rem);
-  letter-spacing: 0.08em;
+  font-size: clamp(1.6rem, 4.6vw, 2.5rem);
+  letter-spacing: 0.04em;
   text-transform: lowercase;
-  color: #e8fff7;
-  text-shadow: 0 0 18px rgba(0, 255, 204, 0.25);
+  color: #0f172a;
+  text-shadow: none;
 }
 
 body.landing .landing-content {
-  margin-top: 1.25rem;
-  padding: 1.5rem 1.75rem;
-  border: 1px solid rgba(0, 153, 255, 0.22);
-  background: rgba(6, 16, 28, 0.8);
-  backdrop-filter: blur(4px);
-  color: #d8e6f2;
+  margin-top: 1rem;
+  padding: 1.4rem 1.5rem;
+  border: 1px solid #e1e4ea;
+  background: #ffffff;
+  color: #1f2937;
 }
 
 body.landing .landing-content h2 {
-  color: #a8f8e8;
+  color: #111827;
 }
 
 body.landing .landing-content hr {
-  border-color: rgba(0, 255, 204, 0.22);
+  border-color: #e5e7eb;
 }
 
 @keyframes landingType {
