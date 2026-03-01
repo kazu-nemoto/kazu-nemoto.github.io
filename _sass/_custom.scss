@@ -2,6 +2,14 @@ html {
   overflow-y: scroll;
 }
 
+:root {
+  --landing-bg: #f6f7f9;
+  --landing-surface: #ffffff;
+  --landing-border: #dfe3e8;
+  --landing-text: #111827;
+  --landing-muted: #5b6470;
+}
+
 .landing-splash {
   position: fixed;
   inset: 0;
@@ -45,7 +53,24 @@ body.landing-loading .page__footer {
 }
 
 body.landing {
-  background: #f6f7f9;
+  background: var(--landing-bg);
+  color: var(--landing-text);
+}
+
+body.landing .masthead,
+body.landing .greedy-nav {
+  background: var(--landing-surface);
+  border-color: var(--landing-border);
+}
+
+body.landing .masthead a,
+body.landing .greedy-nav a {
+  color: var(--landing-muted);
+}
+
+body.landing .masthead a:hover,
+body.landing .greedy-nav a:hover {
+  color: var(--landing-text);
 }
 
 body.landing .page {
@@ -56,8 +81,8 @@ body.landing .landing-hero {
   position: relative;
   margin: 2rem 0 0.8rem;
   padding: 1.1rem 1.25rem;
-  border: 1px solid #d8dbe1;
-  background: #ffffff;
+  border: 1px solid var(--landing-border);
+  background: var(--landing-surface);
   box-shadow: none;
   overflow: hidden;
 }
@@ -69,7 +94,7 @@ body.landing .landing-hero::before {
   right: 0;
   top: 0;
   height: 2px;
-  background: #111827;
+  background: var(--landing-text);
   pointer-events: none;
 }
 
@@ -81,24 +106,38 @@ body.landing .landing-hero__title {
   font-size: clamp(1.6rem, 4.6vw, 2.5rem);
   letter-spacing: 0.04em;
   text-transform: lowercase;
-  color: #0f172a;
+  color: var(--landing-text);
   text-shadow: none;
 }
 
 body.landing .landing-content {
   margin-top: 1rem;
   padding: 1.4rem 1.5rem;
-  border: 1px solid #e1e4ea;
-  background: #ffffff;
-  color: #1f2937;
+  border: 1px solid var(--landing-border);
+  background: var(--landing-surface);
+  color: var(--landing-text);
 }
 
 body.landing .landing-content h2 {
-  color: #111827;
+  color: var(--landing-text);
 }
 
 body.landing .landing-content hr {
-  border-color: #e5e7eb;
+  border-color: var(--landing-border);
+}
+
+body.landing .sidebar .author__name,
+body.landing .sidebar .author__bio,
+body.landing .sidebar .author__urls {
+  color: var(--landing-text);
+}
+
+body.landing .sidebar .author__urls a {
+  color: var(--landing-muted);
+}
+
+body.landing .sidebar .author__urls a:hover {
+  color: var(--landing-text);
 }
 
 @keyframes landingType {

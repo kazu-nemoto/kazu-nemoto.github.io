@@ -4,7 +4,7 @@ title: "kazuki nemoto"
 author_profile: true
 classes: landing
 show_title: false
-splash_text: kazuki nemoto
+splash_text: nimotougou
 ---
 
 <div class="landing-hero">
