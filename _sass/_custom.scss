@@ -15,8 +15,16 @@ html {
   padding: clamp(2rem, 8vw, 5rem);
 }
 
+body.landing:not(.landing-revealed) {
+  background: #050505;
+}
+
 body.landing:not(.landing-revealed) .masthead {
-  opacity: 0;
+  display: none !important;
+}
+
+body.landing:not(.landing-revealed) #main,
+body.landing:not(.landing-revealed) .page__footer {
   visibility: hidden;
 }
 
@@ -155,6 +163,11 @@ body.landing-reveal .landing-content {
 
 .landing-intro .landing-hero__typing {
   letter-spacing: clamp(0.35rem, 2vw, 0.6rem);
+  color: #f5f5f5;
+}
+
+.landing-intro .landing-hero__overlay {
+  background-color: #050505 !important;
 }
 
 .landing-intro .landing-hero__caret {
