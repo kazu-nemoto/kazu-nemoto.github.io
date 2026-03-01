@@ -1,9 +1,9 @@
 ## 自己紹介 (About Me)
 
-東京大学経済学研究科所属。株式会社QueeenBのCEOを務める。
+株式会社QueeenBのCEOを務める。東京大学経済学研究科にも所属。
 
-I am affiliated with the Graduate School of Economics at The University of Tokyo.  
-Currently serving as CEO of QueeenB, Inc.
+Currently serving as CEO of QueeenB, Inc.  
+Also affiliated with the Graduate School of Economics at The University of Tokyo.
 
 ## 興味・関心分野 (Interests)
 
