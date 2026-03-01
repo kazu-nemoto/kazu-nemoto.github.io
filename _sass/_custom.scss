@@ -29,8 +29,7 @@ body.landing:not(.landing-revealed) .page__footer {
 }
 
 body.landing-reveal .landing-intro {
-  pointer-events: none;
-  animation: introFlash 0.75s ease forwards;
+  display: none;
 }
 
 /* While the intro is active, force page chrome (header/nav) to dark theme */
@@ -189,18 +188,6 @@ body.landing-reveal .landing-content {
   }
   50% {
     opacity: 1;
-  }
-}
-
-@keyframes introFlash {
-  0% {
-    opacity: 1;
-    background: #050505;
-  }
-  100% {
-    opacity: 0;
-    background: #050505;
-    visibility: hidden;
   }
 }
 
