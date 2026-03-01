@@ -10,6 +10,35 @@ html {
   --landing-muted: #5b6470;
 }
 
+.masthead__inner-wrap {
+  max-width: none;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#main {
+  max-width: none;
+  width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.page,
+.archive {
+  float: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar {
+  display: none !important;
+}
+
+.list__item {
+  padding-right: 0 !important;
+}
+
 .landing-splash {
   position: fixed;
   inset: 0;
