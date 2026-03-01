@@ -4,8 +4,6 @@ permalink: /sns/
 author_profile: false
 ---
 
-## Accounts
-
 All my SNS handles are `nimotougou`.
 
 The name `nimotougou` comes from two parts:
