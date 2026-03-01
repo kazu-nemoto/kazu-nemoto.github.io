@@ -1,19 +1,25 @@
 ---
-title: "SNS"
+title: "Accounts"
 permalink: /sns/
 author_profile: false
 ---
 
-## SNS
+## Accounts
 
 All my SNS handles are `nimotougou`.
 
-Instagram is private.  
-I only approve people I have met in person. Sorry.
+The name `nimotougou` comes from two parts:
+- `nimo` from `nemoto`
+- `tougou` from my old military-otaku phase
+
+I originally created this handle for Shogi Wars.
 
 ---
 
 すべてのSNSハンドル名は `nimotougou` です。
 
-Instagramはプライベート運用です。  
-実際に会ったことのある方のみ承認しています。ごめんなさい。
+`nimotougou` という名前は、次の2つを合わせたものです。
+- `nemoto` の `nimo`
+- 昔ミリオタだった頃の `tougou`
+
+もともとは将棋ウォーズ用に作ったハンドルです。
