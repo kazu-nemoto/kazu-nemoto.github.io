@@ -98,46 +98,22 @@ $(document).ready(function(){
 });
 
 (function() {
-  var typing = document.querySelector(".landing-hero__typing");
-  if (!typing) {
+  var splash = document.getElementById("landing-splash");
+  if (!splash) {
     return;
   }
 
-  // mark the page as intro-active so the header/nav are styled correctly
-  var landingIntroEl = document.querySelector('.landing-intro');
-  document.body.classList.add('landing-intro-active');
+  document.body.classList.add("landing-loading");
 
-  var textNode = typing.querySelector(".landing-hero__text");
-  var overlay = typing.querySelector(".landing-hero__overlay");
-  var caret = typing.querySelector(".landing-hero__caret");
-  var text = typing.getAttribute("data-text") || (textNode ? textNode.textContent.trim() : "");
-  var charCount = text.length || 1;
-  var duration = Math.max(charCount * 0.16, 1.8);
+  setTimeout(function() {
+    splash.classList.add("is-hidden");
+    document.body.classList.remove("landing-loading");
+    document.body.classList.add("landing-revealed");
 
-  if (textNode) {
-    textNode.textContent = text;
-  }
-
-  function finishIntro() {
-    document.body.classList.remove('landing-intro-active');
-    if (landingIntroEl) {
-      landingIntroEl.style.display = 'none';
-    }
-    // Reveal page only after intro is fully removed.
-    document.body.classList.add('landing-reveal');
-    document.body.classList.add('landing-revealed');
-  }
-
-  if (overlay) {
-    overlay.style.animation = "heroReveal " + duration.toFixed(2) + "s steps(" + charCount + ", end) forwards";
-    overlay.addEventListener("animationend", function() {
-      typing.classList.add("is-complete");
-      if (caret) {
-        caret.classList.add("is-complete");
+    setTimeout(function() {
+      if (splash && splash.parentNode) {
+        splash.parentNode.removeChild(splash);
       }
-      finishIntro();
-    }, { once: true });
-  } else {
-    finishIntro();
-  }
+    }, 340);
+  }, 1600);
 })();

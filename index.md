@@ -7,10 +7,8 @@ show_title: false
 ---
 
 <div class="landing-intro">
-  <div class="landing-hero__typing" data-text="nimotougou">
-    <span class="landing-hero__text">nimotougou</span>
-    <span class="landing-hero__overlay" aria-hidden="true"></span>
-    <span class="landing-hero__caret" aria-hidden="true"></span>
+  <div id="landing-splash" aria-hidden="true">
+    <div class="landing-splash__text">nimotougou</div>
   </div>
 </div>
 

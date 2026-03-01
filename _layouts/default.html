@@ -11,7 +11,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body{% if page.classes %} class="{{ page.classes }}"{% endif %}>
+  <body{% if page.classes %} class="{{ page.classes }}{% if page.classes contains 'landing' %} landing-loading{% endif %}"{% endif %}>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
